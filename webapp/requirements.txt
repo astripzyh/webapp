@@ -1,7 +1,0 @@
-streamlit_lottie==0.0.3
-streamlit==1.11.0
-requests==2.28.1
-Pillow==9.2.0
-protobuf==3.20.1
-watchdog==2.1.9
-pandas==1.4.3
