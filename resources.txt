@@ -1,0 +1,29 @@
+# materi cybersecurity
+https://connect.comptia.org/blog/cyber-security-stats-facts
+https://digitaltransformation.co.id/cara-mengatasi-cyber-crime-apa-yang-harus-dilakukan-pemerintah/
+https://financesonline.com/cybersecurity-statistics/
+https://indihome.co.id/blog/12-cara-mengatasi-cyber-crime-yang-efektif-untuk-melindungi-data-penting
+https://infokomputer.grid.id/read/122710604/apa-itu-cyber-security-mengapa-cyber-security-kini-makin-penting?pag
+https://tekno.kompas.com/read/2021/12/21/06540017/8-kasus-peretasan-yang-terjadi-di-indonesia-sepanjang-2021?page=all
+https://theconversation.com/mewujudkan-keamanan-siber-bagi-indonesia-apa-yang-harus-dilakukan-116813
+https://www.entrepreneur.com/article/347385
+https://www.kompas.com/edu/read/2022/05/22/163700171/mahasiswa-waspadai-7-jenis-ancaman-cyber-security?page=all
+https://www.logique.co.id/blog/2021/02/01/cara-mencegah-cyber-crime/
+https://www.nist.gov/itl/smallbusinesscyber/cybersecurity-basics/case-study-series
+https://www.varonis.com/blog/cybersecurity-statistics#attack
+
+# coding
+https://docs.streamlit.io/library/api-reference
+https://github.com/andymcdgeo/streamlit_tutorial_series
+https://github.com/Sven-Bo/personal-website-streamlit
+
+#animasi
+https://lottiefiles.com/
+https://pixabay.com/
+https://www.istockphoto.com/en
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+# referensi video tutorial
+https://www.youtube.com/watch?v=VqgUkExPvLY
+https://www.youtube.com/watch?v=8SLiFCnFOEo
+https://www.youtube.com/watch?v=FOULV9Xij_8&t=57s
